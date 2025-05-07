@@ -48,10 +48,23 @@ EmotionCNN
 - Scikit-learn
 
 ## How to Run
-1.Clone the repository
-2.Download the CK+ dataset and place it in the expected folder
-3.Open the Emotion_Detection_CKplus.ipynb notebook
-4.Run all cells step-by-step
+1. Clone the repository
+2. Download the CK+ dataset and place it in the expected folder
+3. Open the Emotion_Detection_CKplus.ipynb notebook
+4. Run all cells step-by-step
 
 ## Model Saving
 The model is saved as emotion_cnn.pth for reuse or deployment.
+
+## Project Screenshots
+- Accuracy
+![Em1](https://github.com/user-attachments/assets/65548205-1e35-49ee-8326-4ef98c06ec10)
+- Confusion Matrix
+![Em2](https://github.com/user-attachments/assets/b26cc9a7-c1cf-45b5-a153-ffb7950995c0)
+![Em3](https://github.com/user-attachments/assets/d5c98f9b-7c99-4b78-801b-f6d4ac772746)
+- Test Results
+![Em4](https://github.com/user-attachments/assets/81551842-8be5-484d-85b1-93ba3b7afde4)
+- Misclassified example
+![Em5](https://github.com/user-attachments/assets/94b3e1cc-c312-4dd6-b64d-2fd4137ef4fd)
+
+
